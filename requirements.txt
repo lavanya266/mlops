@@ -1,0 +1,5 @@
+requests
+mlflow
+tensorflow
+matplotlib
+bing-image-downloader
