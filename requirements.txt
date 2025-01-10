@@ -3,3 +3,6 @@ mlflow
 tensorflow
 matplotlib
 bing-image-downloader
+pydot
+graphviz
+
