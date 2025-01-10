@@ -18,7 +18,7 @@ from pathlib import Path
 import imghdr
 
 
-image_path = "/Images/cat_dogs/"
+image_path = "./Images/cat_dogs/"
 
 # def download_images(query, limit, output_dir):
     
